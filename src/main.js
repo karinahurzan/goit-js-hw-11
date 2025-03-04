@@ -6,7 +6,7 @@ import { renderImages, cleanGallery } from './js/render-functions.js';
 import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
 
-const form = document.querySelector('#search-form');
+const form = document.querySelector('.form');
 const input = document.querySelector('.form-input');
 const loader = document.querySelector('.loader');
 

@@ -32,7 +32,7 @@ img {
   margin: 0 auto;
 }
 
-#search-form {
+.form {
   display: flex;
   flex-direction: row;
   gap: 8px;
